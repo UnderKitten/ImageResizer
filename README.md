@@ -99,8 +99,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This project teaches:
 
-- [ ] File upload handling in web APIs
-- [ ] Image processing with .NET
+- [x] File upload handling in web APIs
+- [x] Image processing with .NET
 - [ ] RESTful API design patterns
 - [ ] Modern frontend-backend integration
 - [ ] Docker containerization
