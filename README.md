@@ -39,7 +39,7 @@ A lightweight web application that automatically resizes and compresses images t
 ### Prerequisites
 
 - .NET 8 SDK
-- Node.js (if using React/Vue)
+- 
 - Visual Studio or VS Code
 
 
