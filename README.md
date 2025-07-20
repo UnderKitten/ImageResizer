@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # Image Resizer 📸
 
 A lightweight web application that automatically resizes and compresses images to reduce file size while maintaining quality. Built with .NET Web API backend and modern frontend technologies.
