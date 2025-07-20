@@ -91,8 +91,6 @@ https://localhost:7xxx/swagger
 
 ## 🎯 Learning Outcomes
 
-This project teaches:
-
 - [x] File upload handling in web APIs
 - [x] Image processing with .NET
 - [ ] RESTful API design patterns
