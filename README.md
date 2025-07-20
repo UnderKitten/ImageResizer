@@ -89,10 +89,6 @@ https://localhost:7xxx/swagger
 | `POST` | `/api/image/info` | Get image metadata |
 
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🎯 Learning Outcomes
 
 This project teaches:
